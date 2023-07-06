@@ -7,7 +7,7 @@ Team 7
 * Nikole Pang
 * Tristan Chua Zhihao
 
-The website can be accessed at [Heroku](https://pcs-service-2102.herokuapp.com/login)
+~~The website can be accessed at [Heroku](https://pcs-service-2102.herokuapp.com/login)~~ RIP Heroku :(
 
 Preliminary constraints and ER diagrams can be found in the `master` branch of the repo
 
